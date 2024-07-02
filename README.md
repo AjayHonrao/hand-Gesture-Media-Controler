@@ -78,4 +78,4 @@ The Hand Gesture Recognition System demonstrates the potential of using computer
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or suggestions, please contact **Karan Gorakh Yeole** at [karanyeole2712@gmail.com](mailto:karanyeole2712@gmail.com).
+For any inquiries or suggestions, please contact **Karan Gorakh Yeole** at [ajayhonrao12@gmail.com](mailto:ajayhonrao12@gmail.com).
