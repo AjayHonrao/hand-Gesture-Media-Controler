@@ -1,6 +1,6 @@
-# Hand-Gesture-Recognition-System
+# Hand-Gesture-Media-Controler
 
-The Hand Gesture Recognition System project is designed to allow users to interact with their computer using hand gestures. The system utilizes a webcam to capture hand gestures and interprets them to control various functions, such as navigating through videos or controlling applications without touching the computer.
+The Hand Gesture Recognition Media Controler project is designed to allow users to interact with their computer using hand gestures. The system utilizes a webcam to capture hand gestures and interprets them to control various functions, such as navigating through videos or controlling applications without touching the computer.
 
 ## Features
 - Real-time hand gesture recognition using a webcam.
@@ -24,9 +24,8 @@ The Hand Gesture Recognition System project is designed to allow users to intera
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/hand-gesture-recognition-system.git
-    cd hand-gesture-recognition-system
-    ```
+    https://github.com/AjayHonrao/hand-Gesture-Media-Controler.git
+    cd hand-Gesture-Media-Controler
 2. Create a virtual environment and activate it:
     ```bash
     python -m venv venv
